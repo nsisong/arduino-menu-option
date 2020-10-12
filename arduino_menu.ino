@@ -8,6 +8,8 @@
  *  this code print power perameters and their values below
  *  
  *  the Pin configurations are as follows
+ *  sda = A4 
+ *  scl = A5
  * 
  */
 #include "Wire.h" // For I2C
